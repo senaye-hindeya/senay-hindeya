@@ -18,7 +18,7 @@ A Next.js E-Commerce with Admin Dashboard & CMS: Developed a modern e-commerce a
 
 🌟 Current Focus
 
-Enhancing expertise in Next.js App Router and server components.
+Enhancing expertise in Next.js App Router and react server components.
 
 📫 Connect
 
