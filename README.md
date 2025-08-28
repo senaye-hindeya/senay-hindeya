@@ -13,7 +13,8 @@ Database: MongoDB and MySql
 📂 Featured Projects
 
 MERN Stack E-Commerce with Stripe: Built a full-stack e-commerce platform using React, Node.js, Express, and MongoDB, with Stripe for secure payment processing. Implemented user authentication and product management features.
-Next.js E-Commerce with Admin Dashboard & CMS: Developed a modern e-commerce app using Next.js for server-side rendering, integrated with Stripe for payments and a custom CMS for admin management. Deployed on Vercel for optimal performance.
+
+A Next.js E-Commerce with Admin Dashboard & CMS: Developed a modern e-commerce app using Next.js for server-side rendering, integrated with Stripe for payments and a custom CMS for admin management. Deployed on Vercel for optimal performance.
 
 🌟 Current Focus
 
