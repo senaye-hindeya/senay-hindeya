@@ -1,8 +1,7 @@
 Hi I am Senay Hindeya
 
-I'm a passionate Full-Stack Developer specializing in building scalable and user-friendly web applications
-with Node.js (Next.js), Express, MongoDB, and React. I love crafting seamless backend APIs and dynamic 
-front-end interfaces to solve real-world problems.
+💡 I’m a passionate Full-Stack Developer who builds modern web applications enhanced by AI, leveraging large language models
+to deliver intelligent, personalized, and engaging user experiences.
 
 🛠️ Skills
 
@@ -18,7 +17,9 @@ A Next.js E-Commerce with Admin Dashboard & CMS: Developed a modern e-commerce a
 
 🌟 Current Focus
 
-Enhancing expertise in Next.js App Router and react server components.
+Expanding expertise in AI and data science, including Python libraries such as NumPy, Pandas, and Matplotlib,
+as well as deep learning frameworks like TensorFlow and PyTorch for building intelligent 
+applications and exploring modern AI models.
 
 📫 Connect
 
