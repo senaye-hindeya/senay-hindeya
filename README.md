@@ -6,8 +6,11 @@ to deliver intelligent, personalized, and engaging user experiences.
 🛠️ Skills
 
 Frontend: React, Next.js, JavaScript
-Backend: Node.js, Express
-Database: MongoDB and MySql
+    
+Backend: Node.js, Express 
+
+Database: MongoDB and MySql  
+
 
 📂 Featured Projects
 
